@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\TP\TP01\bin\Debug\TP01.exe.config
+C:\Users\Dell\source\repos\TP\TP01\bin\Debug\TP01.exe
+C:\Users\Dell\source\repos\TP\TP01\bin\Debug\TP01.pdb
+C:\Users\Dell\source\repos\TP\TP01\obj\Debug\TP01.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TP\TP01\obj\Debug\TP01.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TP\TP01\obj\Debug\TP01.exe
+C:\Users\Dell\source\repos\TP\TP01\obj\Debug\TP01.pdb
